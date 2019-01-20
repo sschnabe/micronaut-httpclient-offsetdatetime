@@ -1,0 +1,8 @@
+micronaut:
+  http:
+    client:
+      logger-name: io.micronaut.issue
+
+jackson:
+  serialization:
+    writeDatesAsTimestamps: false
